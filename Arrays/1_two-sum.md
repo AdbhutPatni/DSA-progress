@@ -1,4 +1,7 @@
 Platform : "Leetcode" 
+
 Solution : https://leetcode.com/problems/two-sum/description/
-Approach : 
+
+Approach :
+ 
 using nested for loops
